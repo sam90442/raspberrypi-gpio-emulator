@@ -1,0 +1,2 @@
+This is a modified version of https://github.com/nosix/raspberry-gpio-emulator intended for use in a testing environment when the graphical interface is not required.
+Relevant files have been removed including UI references in GPIO.py
